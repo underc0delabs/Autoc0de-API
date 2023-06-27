@@ -7,7 +7,7 @@ import io.restassured.specification.RequestSpecification;
 import org.junit.Assert;
 
 
-public class customersSteps {
+public class ExampleSteps {
     RequestSpecification request;
     Response response;
 
