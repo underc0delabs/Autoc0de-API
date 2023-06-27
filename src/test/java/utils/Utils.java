@@ -1,4 +1,4 @@
-package pages;
+package utils;
 
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.PropertiesConfiguration;
