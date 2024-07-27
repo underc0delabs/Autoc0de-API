@@ -1,4 +1,4 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Execute Test Manualy](https://github.com/Joel-Vitelli/Autoc0de-Playwrigth/actions/workflows/Tests.yml/badge.svg?branch=master)](https://github.com/Joel-Vitelli/Autoc0de-Playwrigth/actions/workflows/Tests.yml)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/underc0delabs/Autoc0de-API/blob/master/LICENSE) [![Execute Test Manualy](https://github.com/Joel-Vitelli/Autoc0de-Playwrigth/actions/workflows/Tests.yml/badge.svg?branch=master)](https://github.com/Joel-Vitelli/Autoc0de-Playwrigth/actions/workflows/Tests.yml)
 
 # Autoc0de - API
 
